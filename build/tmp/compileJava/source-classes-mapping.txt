@@ -1,0 +1,23 @@
+advantageShopping/userinterfaces/UserCreateAccount.java
+ advantageShopping.userinterfaces.UserCreateAccount
+advantageShopping/tasks/CreateAccount.java
+ advantageShopping.tasks.CreateAccount
+advantageShopping/questions/ValidationUser.java
+ advantageShopping.questions.ValidationUser
+advantageShopping/tasks/Country.java
+ advantageShopping.tasks.Country
+advantageShopping/utils/hooks/SessionVariables.java
+ advantageShopping.utils.hooks.SessionVariables
+advantageShopping/tasks/Abrir.java
+ advantageShopping.tasks.Abrir
+advantageShopping/userinterfaces/AbrirUrl.java
+ advantageShopping.userinterfaces.AbrirUrl
+advantageShopping/interactions/Wait.java
+ advantageShopping.interactions.Wait
+advantageShopping/tasks/User.java
+ advantageShopping.tasks.User
+advantageShopping/utils/hooks/PreparacionEscenario.java
+ advantageShopping.utils.hooks.PreparacionEscenario
+advantageShopping/utils/UtiliTime.java
+ advantageShopping.utils.UtiliTime
+ advantageShopping.utils.UtiliTime$1
